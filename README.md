@@ -1,5 +1,5 @@
 <header>
-    <img src="URL_DE_LA_IMAGEN" alt="Imagen de eventos culturales" style="width: 100%; height: auto;">
+    <img src=["URL_DE_LA_IMAGEN"](https://github.com/DoposcuolaColombo/Agendacultural/blob/main/Screenshot%202025-04-25%20154403.png?raw=true) alt="Imagen de eventos culturales" style="width: 100%; height: auto;">
     <h1>Eventos Culturales en la Ciudad</h1>
     <p>¡Descubre lo que sucede cada semana!</p>
 </header>
