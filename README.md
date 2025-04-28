@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+<header>
+    <img src="URL_DE_LA_IMAGEN" alt="Imagen de eventos culturales" style="width: 100%; height: auto;">
+    <h1>Eventos Culturales en la Ciudad</h1>
+    <p>¡Descubre lo que sucede cada semana!</p>
+</header>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
