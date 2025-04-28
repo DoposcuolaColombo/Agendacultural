@@ -86,6 +86,17 @@
     <h2>Clases Particulares</h2>
     <p>Oportunidades de formación personalizada en varias áreas.</p>
 </section>
+<section id="esta-semana">
+    <h2>Esta Semana</h2>
+    <p>Eventos destacados de esta semana en la ciudad:</p>
+    <ul>
+        <li><strong>Teatro:</strong> "La obra de teatro XYZ" el martes a las 20:00h en el Teatro ABC.</li>
+        <li><strong>Música Académica:</strong> Concierto de la Orquesta Sinfónica el jueves a las 19:30h en el Auditorio XYZ.</li>
+        <li><strong>Conferencias:</strong> Conferencia sobre "La historia de la música" el viernes a las 18:00h en la Universidad DEF.</li>
+        <li><strong>Talleres:</strong> Taller de cerámica el sábado a las 10:00h en el Centro Cultural GHI.</li>
+        <li><strong>Clases Particulares:</strong> Clases de guitarra personalizadas, lunes y miércoles por la tarde. Reserva en nuestro sitio web.</li>
+    </ul>
+</section>
 
 <footer>
     <p>Síguenos también en:</p>
