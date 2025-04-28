@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eventi Culturali in Città</title>
+    <title>Eventos Culturales en la Ciudad</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -50,34 +50,55 @@
 <body>
 
 <header>
-    <h1>Eventi Culturali in Città</h1>
-    <p>Scopri cosa succede ogni settimana!</p>
+    <h1>Eventos Culturales en la Ciudad</h1>
+    <p>¡Descubre lo que sucede cada semana!</p>
 </header>
 
 <nav>
     <a href="#teatro">Teatro</a>
-    <a href="#musica">Musica Accademica</a>
-    <a href="#conferenze">Conferenze</a>
-    <a href="#laboratori">Laboratori</a>
-    <a href="#lezioni">Lezioni Private</a>
+    <a href="#musica">Música Académica</a>
+    <a href="#conferencias">Conferencias</a>
+    <a href="#talleres">Talleres</a>
+    <a href="#clases">Clases Particulares</a>
 </nav>
 
 <section id="teatro">
     <h2>Teatro</h2>
-    <p>Spettacoli teatrali, rassegne e performance dal vivo.</p>
+    <p>Obras de teatro, festivales y presentaciones en vivo.</p>
 </section>
 
 <section id="musica">
-    <h2>Musica Accademica</h2>
-    <p>Concerti di musica classica, cori, orchestre e recital.</p>
+    <h2>Música Académica</h2>
+    <p>Conciertos de música clásica, coros, orquestas y recitales.</p>
 </section>
 
-<section id="conferenze">
-    <h2>Conferenze</h2>
-    <p>Incontri culturali, conferenze e dibattiti.</p>
+<section id="conferencias">
+    <h2>Conferencias</h2>
+    <p>Encuentros culturales, conferencias y debates.</p>
 </section>
 
-<section id="laboratori">
-    <h2>Laboratori</h2>
-    <p>Workshop, corsi pratici, esperienze creative.</p>
-</
+<section id="talleres">
+    <h2>Talleres</h2>
+    <p>Workshops, cursos prácticos y experiencias creativas.</p>
+</section>
+
+<section id="clases">
+    <h2>Clases Particulares</h2>
+    <p>Oportunidades de formación personalizada en varias áreas.</p>
+</section>
+
+<footer>
+    <p>Síguenos también en:</p>
+    <div class="social-icons">
+        <a href="https://instagram.com/tuoperfil" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
+        </a>
+        <a href="https://facebook.com/tuoperfil" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook">
+        </a>
+    </div>
+    <p>&copy; 2025 Eventos Culturales</p>
+</footer>
+
+</body>
+</html>
